@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm currently learning full stack development and working on related projects.
+Full stack web developer
+
+Tech Stack:
+Frontend : HTML, CSS, JS, Bootstrap, Tailwind, React
+Backend : PHP, MySQL, Laravel
 
 
 ## 🌐 Socials:
